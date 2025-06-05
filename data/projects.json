@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "INTRANET - Sistema de Gestión de Vacaciones",
+      "description": "Sistema integral de recursos humanos para gestionar solicitudes de vacaciones, control horario y administración de empleados. Incluye roles, permisos, notificaciones automáticas e importación de datos Excel.",
+      "icon": "<path d=\"M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z\"/>",
+      "technologies": ["Laravel", "Filament", "PHP", "Livewire", "MySQL", "Excel Import", "Roles", "Email Notifications"],
+      "link": "https://github.com/miguelapol/filament_intranet"
+    },
+    {
+      "id": 2,
+      "title": "Veterinaria FullStack",
+      "description": "En este proyecto, es una página web donde los veterinarios podrán registrarse, administrar sus pacientes respectivos, veterinario puede editar sus propios datos y del paciente, hasta recuperar su contraseña.",
+      "icon": "<path d=\"M4.5 12.5C7 12.5 9 10.5 9 8s-2-4.5-4.5-4.5S0 5.5 0 8s2 4.5 4.5 4.5zM6 8c0-.6-.4-1-1-1s-1 .4-1 1 .4 1 1 1 1-.4 1-1zm7.5-6.9c-.6-.4-1.4-.3-1.9.1L10 2.7c-.3.3-.3.7 0 1l.6.6c.3.3.7.3 1 0l1.6-1.5c.4-.4.5-1.2.1-1.8zm7.1 5.4c-.4-.6-1.2-.7-1.8-.1L17.3 8l-1.5-1.6c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4L16 9.4l-1.6 1.5c-.6.4-.7 1.2-.1 1.8.6.4 1.4.3 1.9-.1L18 11l1.6 1.5c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4L19.4 9.4l1.5-1.6c.4-.4.3-1.4-.3-1.8z\"/>",
+      "technologies": ["React","Node.js","MongoDB","JWT", "CRUD", "Veterinaria"],
+      "link": "https://github.com/miguelapol/veterinario_full_stack"
+    },
+    {
+      "id": 3,
+      "title": "Bot de Telegram Notificador",
+      "description": "El principal objetivo de este ChatBot es notificar por mensaje a alumnos sobre los pagos correspondientes, ya que la mayoría no realiza el pago ya sea por atraso u otra situación.",
+      "icon": "<path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z\"/>",
+      "technologies": ["Python", "Telegram Bot", "Notificaciones", "ChatBot"],
+      "link": "https://github.com/miguelapol/bot_python_uam"
+    },
+    {
+      "id": 6,
+      "title": "Campaña de Vacunación",
+      "description": "Este proyecto consiste en la creación de una página web diseñada para promover y educar sobre las campañas de vacunación relacionadas con COVID-19. La página ha sido creada utilizando HTML, CSS y JavaScript.",
+      "icon": "<path d=\"M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7zm2.85 11.1l-.85.6V16h-4v-2.3l-.85-.6C7.8 12.16 7 10.63 7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.63-.8 3.16-2.15 4.1z\"/>",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive"],
+      "link": "https://github.com/miguelapol/vacuna_web",
+      "website": "https://vacunacionempresa.netlify.app/"
+    }, {
+      "id": 7,
+      "title": "Guía Web Moderna - Curso Completo",
+      "description": "Curso de desarrollo web que construí y grabé completamente por mi cuenta. Incluye más de 25 videos educativos que produje personalmente, cubriendo desde HTML, CSS y JavaScript hasta Angular y Bun.js. Todo el contenido, diseño de la plataforma y material educativo fue desarrollado por mí desde cero.",
+      "icon": "<path d=\"M12 3L1 9l4 2.18v6L12 21l7-3.82v-6L21 9l-9-6zm2.5 12.5l-2.5 1.39-2.5-1.39V10L12 8.61 14.5 10v5.5z\"/>",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Angular", "Bun.js", "TypeScript", "Node.js", "PostgreSQL"],
+      "website": "https://devstackapol.netlify.app/"
+    }
+  ]
+} 
